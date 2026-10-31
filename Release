@@ -1,15 +1,15 @@
-Origin: 3206136933-zxc 的源
-Label: 3206136933-zxc 的源
+Origin: 时期玩个咪～
+Label: 时期玩个咪～
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: 3206136933-zxc 的越狱软件源
+Description: 成年人在未成年人帮助下进行安装使用
 Support: https://3206136933-zxc.github.io/3206136933-zxc.github.io/
 MD5Sum:
- e4fb56b303585644fe3143162177a48e  3074 Packages
- f400e2f7521e682cc04dd417e1430e12  1601 Packages.gz
+ daf0f56fb623ed945338d536c38336fa  3074 Packages
+ 2f9319a71d5349682b145bb2f2102d35  1597 Packages.gz
 SHA256:
- 483b328ddc5ef42113a112495198e7ae6aac65b200bbb6116eb5a0b86d62b555  3074 Packages
- 44ff11c69f55e98ee05ecca22f41ad813fa1e901fd76e19f43f4046cb20feb8f  1601 Packages.gz
+ 3fcd51a24b921a9e5011c0101ece609f8e0a42bbfdc8e08a36a2eeff899aaffc  3074 Packages
+ 616280e1f835f258969ca61eef2748543fae6a56488f824e2eed9412847348b2  1597 Packages.gz
