@@ -6,5 +6,9 @@
   "com.charlieleung.trollopenjb_2.0.1_rhfix5_iphoneos-arm64e.deb": {
     "name": "TrollOpen",
     "desc": "2.0.1分屏"
+  },
+  "cn.zqbb.hellospeed_1.2.1_iphoneos-arm64.deb": {
+    "name": "cn.zqbb.hellospeed_1.2.1_加速arm64.deb",
+    "desc": "加速插件"
   }
 }
