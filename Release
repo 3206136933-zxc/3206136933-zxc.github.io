@@ -8,8 +8,8 @@ Components: main
 Description: 3206136933-zxc 的越狱软件源
 Support: https://3206136933-zxc.github.io/3206136933-zxc.github.io/
 MD5Sum:
- 342edcb541f90fa904638884e98a144e  677 Packages
- 6bce68c5bc0fe5eea0204d4c358a0096  558 Packages.gz
+ c50afffe3432ba4a1787ab15f2325090  1389 Packages
+ 0f5d2429d8bd4f43077c0f12b969da07  895 Packages.gz
 SHA256:
- ff4d35b8788fedf4be919f12210c5599e377dcfa3208bb8548cda1f7e3f7f76d  677 Packages
- bbd6864e380e93072e40d3adefd24fafce382882fd863865988e5e7ad67e19d2  558 Packages.gz
+ 7f8ed24c26c04fe9c45741bd65ae2bf0245fe530564d4254aa5e3baa9b474757  1389 Packages
+ 47310a1fdedd9c85e18973031f263d71bfd463db7d6441cfe3596d3d6cf6fd49  895 Packages.gz

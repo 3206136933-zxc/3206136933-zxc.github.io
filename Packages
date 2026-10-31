@@ -1,3 +1,20 @@
+Package: com.charlieleung.trollopenjb
+Architecture: iphoneos-arm64e
+Version: 1.5.2
+Section: Tweaks
+Maintainer: Charlie Leung
+Installed-Size: 55487
+Depends: firmware (>= 15.0),mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: debs/com.charlieleung.trollopenjb_1.5.2_iphoneos-arm64e.deb
+Size: 17090156
+MD5sum: 05597e68f5d66ad7334307ed6f03b462
+SHA1: 48bf5368f8ffe4a7abd964d6243c4ae2f7f7e8b7
+SHA256: 7db2496e91c6975cdb601c1b74d58c90774de961dcb4bacb43ec6c39eadaf961
+SHA512: 70a200d0ef970e69f036afb0a997855a9344e9b5bf72aec03cb2d7fa8d79479f6316c46ac06b2b67f05d2ea09811342ea7158a9b52717965e020c716f00246f2
+Description: 十柒破解
+Name: TrollOpen
+Author: Charlie Leung
+
 Package: com.go.mango
 Architecture: iphoneos-arm64
 Version: 1.0-Beta12-1+local1
