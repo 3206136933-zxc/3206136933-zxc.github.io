@@ -2,5 +2,9 @@
   "com.susudear.screencore_2.0.3_iphoneos-arm64e.deb": {
     "name": "ScreenCore分屏",
     "desc": "分屏"
+  },
+  "com.charlieleung.trollopenjb_2.0.1_rhfix5_iphoneos-arm64e.deb": {
+    "name": "TrollOpen",
+    "desc": "2.0.1分屏"
   }
 }
