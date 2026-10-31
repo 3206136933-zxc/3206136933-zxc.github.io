@@ -1,12 +1,4 @@
 {
-  "categories": [
-    "已授权",
-    "时期使用插件"
-  ],
-  "assignments": {
-    "com.charlieleung.trollopenjb_2.0.1_rhfix5_iphoneos-arm64e.deb": "时期使用插件",
-    "com.charlieleung.trollopenjb_1.5.2_iphoneos-arm64e.deb": "时期使用插件",
-    "com.susudear.screencore_2.0.3_iphoneos-arm64e.deb": "时期使用插件",
-    "mango_Beta12-1_rootless.deb": "已授权"
-  }
+  "categories": [],
+  "assignments": {}
 }
