@@ -36,6 +36,24 @@ Name: TrollOpen (RootHide Test)
 Author: Charlie Leung
 X-Local-Test-Revision: rhfix5
 
+Package: com.susudear.screencore
+Architecture: iphoneos-arm64e
+Version: 2.0.3
+Section: Tweaks
+Maintainer: SuSu
+Installed-Size: 2964
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/com.susudear.screencore_2.0.3_iphoneos-arm64e.deb
+Size: 464978
+MD5sum: 8c80529ac18d2dbfe77002a0a30ca8cd
+SHA1: 9feb2706e73aa2a602c5d7d0ec8bddc2890a66cb
+SHA256: 0b9445ac7ef6ed9894c8ec82776cbcd2b0ab90a508ba185258534db451e31e2b
+SHA512: 1576257a4093040589075c78854b57323bfad784d0b60556de39a2eb7ac402c6759722b42a13fd232bef797b23804891c66729110431ca43c70cbfe3663db889
+Description: 分屏而已
+Name: ScreenCore
+Author: SuSu
+Icon: https://repo.susubaby.cn/icons/ScreenCore.png
+
 Package: com.go.mango
 Architecture: iphoneos-arm64
 Version: 1.0-Beta12-1+local1
