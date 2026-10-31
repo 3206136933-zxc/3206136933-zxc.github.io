@@ -16,7 +16,7 @@ gen_hashes(){ local alg="$1"; shift; local f; for f in "$@"; do [ -f "$f" ] || c
   local size; size=$(wc -c < "$f" | tr -d ' '); local h;
   case "$alg" in md5) h=$(md5sum "$f"|awk '{print $1}');; sha256) h=$(sha256sum "$f"|awk '{print $1}');; esac
   printf ' %s  %s %s\n' "$h" "$size" "$f"; done; }
-SOURCE_NAME="时期玩个咪～"; SOURCE_DESC="成年人在未成年人帮助下进行安装使用"
+SOURCE_NAME="时期玩个咪～"; SOURCE_DESC="注意：成年人在未成年人的帮助下安装使用"
 { echo "Origin: $SOURCE_NAME"; echo "Label: $SOURCE_NAME"; echo "Suite: stable"; echo "Version: 1.0";
   echo "Codename: ios"; echo "Architectures: iphoneos-arm64 iphoneos-arm64e"; echo "Components: main";
   echo "Description: $SOURCE_DESC"; echo "Support: $REPO_URL";
