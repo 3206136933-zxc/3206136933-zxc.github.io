@@ -53,8 +53,8 @@ MD5sum: 0df21dc5f94308fc1ceab2bebbc7c147
 SHA1: 54c52f8e697c2870f022606ae016dd497d378197
 SHA256: 1097add676c4386e12fa0a657caf499c0f6bac6eac00b005dda84d0677a691d2
 SHA512: d804906fc8aafa23ac82507345090ead4c2da8181fb87e8a711aed84b6bd90a7a2fb5682ad2e0ea491ce0d8099203ea38473852f59b3216036aaf1df77561282
-Description: SpringBoard动画加速!
-Name: Hello Speed
+Description: 加速插件
+Name: cn.zqbb.hellospeed_1.2.1_加速arm64.deb
 Author: zqbb
 Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hellospeed
 
