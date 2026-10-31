@@ -1,0 +1,15 @@
+Origin: 3206136933-zxc 的源
+Label: 3206136933-zxc 的源
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: 3206136933-zxc 的越狱软件源
+Support: https://3206136933-zxc.github.io/3206136933-zxc.github.io/
+MD5Sum:
+ 342edcb541f90fa904638884e98a144e  677 Packages
+ 073e8a396e3aaf55ff931c4b1827339c  558 Packages.gz
+SHA256:
+ ff4d35b8788fedf4be919f12210c5599e377dcfa3208bb8548cda1f7e3f7f76d  677 Packages
+ eed326de7667a706f5fb22b4fcf846b03248fea4fdb103c21252d7057283b38a  558 Packages.gz
