@@ -1,7 +1,7 @@
 Package: com.charlieleung.trollopenjb
 Architecture: iphoneos-arm64e
 Version: 1.5.2
-Section: 已授权
+Section: 时期使用插件
 Maintainer: Charlie Leung
 Installed-Size: 55487
 Depends: firmware (>= 15.0),mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.libsandy
@@ -19,7 +19,7 @@ Package: com.charlieleung.trollopenjb
 Architecture: iphoneos-arm64e
 Version: 2.0.1+rhfix5
 Priority: optional
-Section: 已授权
+Section: 时期使用插件
 Maintainer: Local test build
 Installed-Size: 4304
 Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.libsandy
@@ -39,7 +39,7 @@ X-Local-Test-Revision: rhfix5
 Package: com.susudear.screencore
 Architecture: iphoneos-arm64e
 Version: 2.0.3
-Section: 已授权
+Section: 时期使用插件
 Maintainer: SuSu
 Installed-Size: 2964
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
