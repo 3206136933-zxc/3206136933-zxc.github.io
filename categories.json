@@ -1,6 +1,7 @@
 {
   "categories": [
-    "时期自用插件"
+    "时期自用插件",
+    "时期自用分屏"
   ],
   "assignments": {
     "com.susudear.screencore_2.0.3_iphoneos-arm64e.deb": "时期自用插件",
