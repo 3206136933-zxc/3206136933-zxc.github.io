@@ -1,3 +1,45 @@
+Package: cn.zqbb.fix120hz
+Architecture: iphoneos-arm64
+Version: 1.2.0-62
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 1596
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: debs/cn.zqbb.fix120hz_1.2.0-62_iphoneos-arm64.deb
+Size: 358944
+MD5sum: 75f645b9b6cb52c73d20146586f3ca79
+SHA1: e3d3f5a2d90c917c4cb6cc999a183e99e792ced6
+SHA256: 4b9221a69f442da20a3491de2bf095fa2ee73d91759311c78cdb54e1f101c1d7
+SHA512: 4c8205201bd2036ce816d6cc5bd1ce6a5fbfc11bd34ea651033237628d870bef4e594a45effc93c571479e415eb1e6efe313a47b743acd881ee4a80bf0e98086
+Description:
+ - Unlock dynamic refresh rate from 80hz to 120hz
+ - .
+ - 解锁动态刷新率80hz到120hz.
+Name: Hello 120Hz
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.fix120hz
+
+Package: cn.zqbb.hello.quick.panel
+Architecture: iphoneos-arm64e
+Version: 1.0.1-6+localunlock3
+Section: zqbb Tweaks
+Maintainer: zqbb
+Installed-Size: 17776
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/cn.zqbb.hello.quick.panel_1.0.1-6_localunlock3_iphoneos-arm64e.deb
+Size: 4996120
+MD5sum: 962928d2fa5dd3045423e9491704aadc
+SHA1: 5a643d0d18a3761bce65968acad23a45637ffd5d
+SHA256: ed86fa36f844b5729f2eafdeef664611f6330c4b4d971e6f176676f5db31579a
+SHA512: 173983e2be9f643e441d9fb5eafdee7c8dfac51e28dae06bd70f411593de5696198c0be82ec3203ad6615f516cd0ad22fde803e1f1859a9d6ae22cff515bf893
+Description: 快捷面板~
+Name: Hello QuickPanel
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.quick.panel.png
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.quick.panel
+
 Package: com.charlieleung.trollopenjb
 Architecture: iphoneos-arm64e
 Version: 1.5.2
@@ -52,6 +94,22 @@ SHA512: 21d7be0107982faa7694842c0ac95b93b4876c6f515caa14d5b306396378ab49dec1ba25
 Description: 微信输入法启用毛玻璃效果，测试输入法版本号 3.5.0。1.2.6 独立适配浅色 Dock 风格毛玻璃，同时保留 1.2.5 暗黑模式效果。QQ群：205928931
 Name: 微信输入法_毛玻璃效果 Roothide
 Author: colorblack
+
+Package: com.local.sileodebdownloader
+Architecture: iphoneos-arm64e
+Version: 1.3.0
+Section: Tweaks
+Maintainer: Local
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.local.sileodebdownloader_1.3.0_iphoneos-arm64e.deb
+Size: 59298
+MD5sum: 0bac41121d37d373198b1fe6d07655b8
+SHA1: cfcfbe9ee45fb1a1c7a3ab3f036f2f9d6eb4ab94
+SHA256: 86950020a72d5b89bddea7457fe691aeead806628a47d9f912c13e6a2c49262d
+SHA512: 829bf22d4c3814f7df7b6ae2ac8ad3cdc90f819823d8a1f321c5f077c6fe32670472b5a6f3abcfa8486aa378a2a619e16a4795b720500097441960cc18556c0c
+Description: Download and export repository DEB files directly from Sileo.
+Name: Sileo DEB Downloader
+Author: Local
 
 Package: com.susudear.screencore
 Architecture: iphoneos-arm64e
