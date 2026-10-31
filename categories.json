@@ -1,4 +1,8 @@
 {
-  "categories": [],
-  "assignments": {}
+  "categories": [
+    "已授权"
+  ],
+  "assignments": {
+    "com.charlieleung.trollopenjb_2.0.1_rhfix5_iphoneos-arm64e.deb": "已授权"
+  }
 }
