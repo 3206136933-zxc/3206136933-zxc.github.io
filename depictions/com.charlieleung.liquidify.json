@@ -1,0 +1,38 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "介绍",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "com.charlieleung.liquidify",
+          "useMargins": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "液态1.4.0版本，88米",
+          "useMargins": true,
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemSize": "{220, 390}",
+          "itemCornerRadius": 10,
+          "screenshots": [
+            {
+              "url": "https://3206136933-zxc.github.io/depictions/images/com.charlieleung.liquidify/1793529090850_1.jpg",
+              "accessibilityText": "com.charlieleung.liquidify 截图 1"
+            },
+            {
+              "url": "https://3206136933-zxc.github.io/depictions/images/com.charlieleung.liquidify/1793529096468_2.jpg",
+              "accessibilityText": "com.charlieleung.liquidify 截图 2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
