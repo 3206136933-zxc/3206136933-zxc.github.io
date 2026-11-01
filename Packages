@@ -90,6 +90,8 @@ SHA1: c41810335c07a0d145f966007febfbe84d98aa92
 SHA256: 3386e48edbfef69a5f470f235295ef1d91cd5995fa1dac2926850a2883904a01
 SHA512: 62e4f86a51a7a55726eaaa4442479189001ec60fa5d824ca018f7cd7ceaafec3e26c92843799270ce76db3c3c0367240fcc97c2c1494ae980efc16f853da186c
 Description: 2.0.1分屏
+ Preserves legacy lyrics and previous feature repairs; device validation required.
+ Requires on-device testing; this is not an official release.
 Name: TrollOpen
 Author: Charlie Leung
 X-Local-Test-Revision: rhfix5
@@ -146,7 +148,6 @@ Author: SuSu
 Icon: https://repo.susubaby.cn/icons/ScreenCore.png
 
 Package: com.wkk.systembox
-SileoDepiction: https://3206136933-zxc.github.io/depictions/com.wkk.systembox.json
 Architecture: iphoneos-arm64
 Version: 1.4-7
 Section: Tweaks
