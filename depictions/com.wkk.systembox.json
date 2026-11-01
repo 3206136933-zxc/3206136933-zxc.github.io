@@ -1,0 +1,34 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "介绍",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "com.wkk.systembox",
+          "useMargins": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "多功能插件",
+          "useMargins": true,
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemSize": "{220, 390}",
+          "itemCornerRadius": 10,
+          "screenshots": [
+            {
+              "url": "https://3206136933-zxc.github.io/depictions/images/com.wkk.systembox/1793518446488_1.jpg",
+              "accessibilityText": "com.wkk.systembox 截图 1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
