@@ -10,7 +10,7 @@ else
   SCAN="$(mktemp -d)/debs"; mkdir -p "$SCAN"; cp -f "$DEBS_ABS"/*.deb "$SCAN"/ 2>/dev/null || true
   apt-ftparchive packages "$SCAN" | sed "s#^Filename: .*/#Filename: debs/#" > Packages
 fi
-[ -f overrides.json -o -f categories.json ] && command -v python3 >/dev/null 2>&1 && python3 scripts/apply-overrides.py
+[ -f overrides.json -o -f categories.json -o -f package-details.json ] && command -v python3 >/dev/null 2>&1 && python3 scripts/apply-overrides.py
 gzip -9 -kf Packages
 gen_hashes(){ local alg="$1"; shift; local f; for f in "$@"; do [ -f "$f" ] || continue;
   local size; size=$(wc -c < "$f" | tr -d ' '); local h;
