@@ -10,5 +10,9 @@
   "cn.zqbb.hellospeed_1.2.1_iphoneos-arm64.deb": {
     "name": "cn.zqbb.hellospeed_1.2.1_加速arm64.deb",
     "desc": "加速插件"
+  },
+  "com.charlieleung.liquidify_1.4.0_localtest1_iphoneos-arm64e.deb": {
+    "name": "com.charlieleung.liquidify_1.4.0_iphoneos-arm64e.deb",
+    "desc": ""
   }
 }
