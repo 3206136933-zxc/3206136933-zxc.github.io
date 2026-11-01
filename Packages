@@ -58,6 +58,18 @@ Name: cn.zqbb.hellospeed_1.2.1_加速arm64.deb
 Author: zqbb
 Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hellospeed
 
+Package: com.charlieleung.liquidify
+SileoDepiction: https://3206136933-zxc.github.io/depictions/com.charlieleung.liquidify.json
+Name: Liquidify (Local Test)
+Version: 1.4.0+localtest1
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: Charlie Leung
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Local test build with bundled, verified core data. Runtime testing required.
+Filename: debs/com.charlieleung.liquidify_1.4.0_localtest1_iphoneos-arm64e.deb
+Size: 1258108
+
 Package: com.charlieleung.trollopenjb
 Architecture: iphoneos-arm64e
 Version: 1.5.2
