@@ -60,7 +60,7 @@ Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hellospeed
 
 Package: com.charlieleung.liquidify
 SileoDepiction: https://3206136933-zxc.github.io/depictions/com.charlieleung.liquidify.json
-Name: Liquidify (Local Test)
+Name: com.charlieleung.liquidify_1.4.0_iphoneos-arm64e.deb
 Version: 1.4.0+localtest1
 Architecture: iphoneos-arm64e
 Section: Tweaks
