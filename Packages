@@ -59,16 +59,21 @@ Author: zqbb
 Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hellospeed
 
 Package: com.charlieleung.liquidify
-SileoDepiction: https://3206136933-zxc.github.io/depictions/com.charlieleung.liquidify.json
-Name: com.charlieleung.liquidify_1.4.0_iphoneos-arm64e.deb
-Version: 1.4.0+localtest1
 Architecture: iphoneos-arm64e
+Version: 1.4.0+localtest1
 Section: Tweaks
 Maintainer: Charlie Leung
+Installed-Size: 3208
 Depends: mobilesubstrate (>= 0.9.5000)
-Description: Local test build with bundled, verified core data. Runtime testing required.
 Filename: debs/com.charlieleung.liquidify_1.4.0_localtest1_iphoneos-arm64e.deb
 Size: 1258108
+MD5sum: 347eb72a8fb740e43be98151cd5e26a9
+SHA1: 70b5cc5d39abfd04fcbd17c178b15bb536071e88
+SHA256: 6823668e0c1c70838d0f1e30fbdbca56dd1cd4b32cd15bc95691944a730e4e8d
+SHA512: b1d86122758223897f66e49c1e3492ddae45db7efd0c4d60384504a3e37dad4a95b3f5e24000096fcbd8be08f480659e94618b3b3420a2db5312e123cf03c39a
+Description: Local test build with bundled, verified core data. Runtime testing required.
+Name: com.charlieleung.liquidify_1.4.0_iphoneos-arm64e.deb
+Author: Charlie Leung
 
 Package: com.charlieleung.trollopenjb
 Architecture: iphoneos-arm64e
@@ -102,6 +107,8 @@ SHA1: c41810335c07a0d145f966007febfbe84d98aa92
 SHA256: 3386e48edbfef69a5f470f235295ef1d91cd5995fa1dac2926850a2883904a01
 SHA512: 62e4f86a51a7a55726eaaa4442479189001ec60fa5d824ca018f7cd7ceaafec3e26c92843799270ce76db3c3c0367240fcc97c2c1494ae980efc16f853da186c
 Description: 2.0.1分屏
+ Preserves legacy lyrics and previous feature repairs; device validation required.
+ Requires on-device testing; this is not an official release.
 Name: TrollOpen
 Author: Charlie Leung
 X-Local-Test-Revision: rhfix5
@@ -124,16 +131,38 @@ Name: 微信输入法_毛玻璃效果 Roothide
 Author: colorblack
 
 Package: com.go.mango
-SileoDepiction: https://3206136933-zxc.github.io/depictions/com.go.mango.json
-Name: mango
-Version: 1.0-Beta14-4+offline-test2
 Architecture: iphoneos-arm64e
+Version: 1.0-Beta14-4+offline-test2
 Section: Tweaks
 Maintainer: go
+Installed-Size: 44968
 Depends: mobilesubstrate
+Filename: debs/com.go.mango_1.0-Beta14-4+offline-test2_iphoneos-arm64e.deb
+Size: 25433608
+MD5sum: 87f55a14b8a2a05f8b1d9fc7107ccc36
+SHA1: 496f3b8032d45155044b01782c2e3dd13b7e7152
+SHA256: 8b962b03de595474572ae765c6a0c93d952a884571cda1bae4c83debd2947557
+SHA512: 5a38cac6ad61a4a1ee72879307b606277b75fde06bf3c46c8a950f134b3e48598181f008f02636324ed81e2c26f888df648571d4e874b015fd298dc370dc7e93
 Description: Mango分屏，小液微信液态美化，系统级真液态玻璃，全局返回小芒，视频壁纸等一些实用功能。
+Name: mango
+Author: go
+
+Package: com.go.mango
+Architecture: iphoneos-arm64e
+Version: 1.0-Beta14-4+offline-test2
+Section: Tweaks
+Maintainer: go
+Installed-Size: 44968
+Depends: mobilesubstrate
 Filename: debs/com.go.mango_1.0-Beta14-4_offline-test2_iphoneos-arm64e.deb
 Size: 25433608
+MD5sum: 87f55a14b8a2a05f8b1d9fc7107ccc36
+SHA1: 496f3b8032d45155044b01782c2e3dd13b7e7152
+SHA256: 8b962b03de595474572ae765c6a0c93d952a884571cda1bae4c83debd2947557
+SHA512: 5a38cac6ad61a4a1ee72879307b606277b75fde06bf3c46c8a950f134b3e48598181f008f02636324ed81e2c26f888df648571d4e874b015fd298dc370dc7e93
+Description: Mango分屏，小液微信液态美化，系统级真液态玻璃，全局返回小芒，视频壁纸等一些实用功能。
+Name: mango
+Author: go
 
 Package: com.local.sileodebdownloader
 Architecture: iphoneos-arm64e
@@ -170,7 +199,6 @@ Author: SuSu
 Icon: https://repo.susubaby.cn/icons/ScreenCore.png
 
 Package: com.wkk.systembox
-SileoDepiction: https://3206136933-zxc.github.io/depictions/com.wkk.systembox.json
 Architecture: iphoneos-arm64
 Version: 1.4-7
 Section: Tweaks
@@ -187,22 +215,4 @@ Description: cool
 Name: SystemX
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-
-Package: com.go.mango
-SileoDepiction: https://3206136933-zxc.github.io/depictions/com.go.mango.json
-Architecture: iphoneos-arm64
-Version: 1.0-Beta12-1+local1
-Section: 时期自用分屏
-Maintainer: go
-Installed-Size: 40320
-Depends: mobilesubstrate
-Filename: debs/mango_Beta12-1_rootless.deb
-Size: 17154924
-MD5sum: 9cf607fea4c9f540cfa7d72f5d9889ad
-SHA1: 6b910c09f6142786cf67665ef676aff53bb52ad7
-SHA256: 80ccec2706a41264e0305bc7ecfba0a3fd280e2133a9653c417152a2f0a2e72c
-SHA512: 18558e68370a4f5280a62e3ae6d3ec6c51a0f01d405798731acc31ad59b5a6865d2594fe707f3dded5e5cfb804e46e0ed55d299a9e911856598ce762ec30fe5e
-Description: Mango分屏，小液微信液态美化，系统级真液态玻璃，全局返回小芒，视频壁纸等一些实用功能。
-Name: mango
-Author: go
 

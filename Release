@@ -6,7 +6,10 @@ Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 注意：成年人在未成年人的帮助下安装使用
-Support: https://3206136933-zxc.github.io/
+Support: https://3206136933-zxc.github.io/3206136933-zxc.github.io/
+MD5Sum:
+ 3a7d9a98bac9ca3989c2d15846fd24a2  9121 Packages
+ 7a81b7547fb8e22ba01c46e8bdcfdf2b  3743 Packages.gz
 SHA256:
- fcb5bb81857cb6380145878ab5740350cd20bae3bc7a1d974e9336c8140b21cf  8607  Packages
- 1201c584bc7b9bd4cc281e3abf4ad558e0320a3c6887105455c02902fb7991ba  3556  Packages.gz
+ 859a94628cf12124356f96eff043f19102487d33846242fa751758556e5cd45c  9121 Packages
+ 29828de09752dfe476ee1d3678ad878e631c2753bcd08166bd4776b97bdc1912  3743 Packages.gz
