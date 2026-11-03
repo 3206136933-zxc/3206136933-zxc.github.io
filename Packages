@@ -123,6 +123,18 @@ Description: 微信输入法启用毛玻璃效果，测试输入法版本号 3.5
 Name: 微信输入法_毛玻璃效果 Roothide
 Author: colorblack
 
+Package: com.go.mango
+SileoDepiction: https://3206136933-zxc.github.io/depictions/com.go.mango.json
+Name: mango
+Version: 1.0-Beta14-4+offline-test2
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: go
+Depends: mobilesubstrate
+Description: Mango分屏，小液微信液态美化，系统级真液态玻璃，全局返回小芒，视频壁纸等一些实用功能。
+Filename: debs/com.go.mango_1.0-Beta14-4_offline-test2_iphoneos-arm64e.deb
+Size: 25433608
+
 Package: com.local.sileodebdownloader
 Architecture: iphoneos-arm64e
 Version: 1.3.0
@@ -177,6 +189,7 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
 Package: com.go.mango
+SileoDepiction: https://3206136933-zxc.github.io/depictions/com.go.mango.json
 Architecture: iphoneos-arm64
 Version: 1.0-Beta12-1+local1
 Section: 时期自用分屏
